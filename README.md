@@ -28,13 +28,30 @@ If you want to see what I’ve been building, keep scrolling 👇
 
 ## 🚀 Featured Projects
 
-### 🚇 Metro Navigator India
 
-A smart metro route planner that allows users to search routes using **landmark names instead of station names**.
+## 🚇 Metrofy (MAIN PROJECT – TEAM PROJECT)
+A Delhi-focused mobile application that allows users to search any location and find the nearest metro station using open geospatial data
+Built as a team of 3 developers
 
-* Tech: Java (Spring Boot), React
-* Focus: Navigation system, real-world usability
-* Status: Ongoing
+Key Engineering Elements:
+
+Photon API for geocoding (place → coordinates)
+OpenStreetMap data via Overpass API
+Local dataset of metro stations
+Haversine formula for distance calculation
+React Native (Expo) frontend
+
+User Flow:
+User Input → Geocoding → Coordinates → Distance Calculation → Nearest Station Output
+
+User's Contribution:
+
+Worked on location-to-station mapping logic
+Implemented Haversine-based distance ranking
+Contributed to backend/data handling logic
+Focused on improving accuracy and system performance
+
+Status: Ongoing
 
 ---
 
