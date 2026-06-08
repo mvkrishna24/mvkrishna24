@@ -20,7 +20,7 @@
 
 ### About
 
-Final-year B.Tech (AI & ML) student graduating in 2026, focused on building **production-grade backends** with Java + Spring Boot and **AI-driven automation** with n8n and LLMs. I care about the parts most demos skip: caching, rate limiting, idempotency, retries, and clean API design. I also take on freelance work — backend APIs, automation workflows, and client websites.
+Final-year B.Tech (AI & ML) student , focused on building **production-grade backends** with Java + Spring Boot and **AI-driven automation** with n8n and LLMs. I care about the parts most demos skip: caching, rate limiting, idempotency, retries, and clean API design. I also take on freelance work — backend APIs, automation workflows, and client websites.
 
 ---
 
@@ -34,15 +34,14 @@ Final-year B.Tech (AI & ML) student graduating in 2026, focused on building **pr
 
 ### Tech Stack
 
-**Languages**
+Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-**Backend**
+Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -52,16 +51,14 @@ Final-year B.Tech (AI & ML) student graduating in 2026, focused on building **pr
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-**Frontend**
+Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
-
-**AI / Automation**
+AI / Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -69,8 +66,7 @@ Final-year B.Tech (AI & ML) student graduating in 2026, focused on building **pr
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=0d1117" />
 </p>
-
-**Tools**
+Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
