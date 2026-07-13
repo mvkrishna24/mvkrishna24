@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Machine%20Learning-7C3AED?style=flat-square&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Sanskriti%20University-Class%20of%202027-6D28D9?style=flat-square&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/CGPA-8.10%20%2F%2010-5B21B6?style=flat-square&labelColor=1E1B4B" />
 <img src="https://img.shields.io/badge/Hyderabad-India-4C1D95?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=A855F7" />
 
 <br/><br/>
@@ -42,7 +39,7 @@
 
 I build backend systems that hold up under load, and AI pipelines that do real work instead of demos.
 
-Final-year **B.Tech (AI & ML)** student and a working freelance engineer. My focus is the unglamorous half of software: cache strategy, rate limiting, migration safety, auth boundaries, p99 latency. I've shipped a distributed URL shortener sustaining **100 RPS at 4.13ms p99 with a 99.98% cache hit rate**, a **live production facility-management SaaS** serving gated communities across Andhra Pradesh, and an **AI-driven CRM automation pipeline deployed to a paying client**.
+A working freelance engineer. My focus is the unglamorous half of software: cache strategy, rate limiting, migration safety, auth boundaries, p99 latency. I've shipped a distributed URL shortener sustaining **100 RPS at 4.13ms p99 with a 99.98% cache hit rate**, a **live production facility-management SaaS** serving gated communities across Andhra Pradesh, and an **AI-driven CRM automation pipeline deployed to a paying client**.
 
 I work across the full stack — Java/Spring Boot services, Next.js frontends, PostgreSQL/Redis data layers, Docker + CI/CD delivery — but I think like a product engineer. Understanding revenue, retention, and what actually breaks in production made me a materially better engineer than any tutorial did.
 
