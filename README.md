@@ -10,26 +10,6 @@
 
 <img src="https://img.shields.io/badge/Hyderabad-India-4C1D95?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=A855F7" />
 
-<br/><br/>
-
-<a href="https://mvkrishna.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-mvkrishna.me-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://linkedin.com/in/krishna-mv-38380a2b3">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="mailto:marthavamshikrishna1024@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://github.com/mvkrishna24">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mvkrishna24&label=Profile%20Views&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/github/followers/mvkrishna24?label=Followers&style=flat-square&color=7c3aed&labelColor=1E1B4B" />
-<img src="https://img.shields.io/github/stars/mvkrishna24?label=Total%20Stars&style=flat-square&color=7c3aed&labelColor=1E1B4B" />
 
 </div>
 
