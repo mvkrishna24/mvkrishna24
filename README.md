@@ -204,72 +204,6 @@ Building distributed backend systems to production standards — benchmarked, co
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Winner — University Startup Pitch** | RideMatch selected as the winning venture; judging panel formally recommended patent filing |
-| **2nd Place — University Startup Pitch** | MetroNexis awarded runner-up; three core innovations documented for IP filing |
-| **Patent Track — 2 Products** | Geospatial Landmark Resolver · Multi-Interchange Graph Optimizer · AI Ridership Prediction |
-| **Production SaaS in Revenue** | Door Ducks live with paying AMC clients across Andhra Pradesh |
-| **Paying Client — AI Automation** | LeadOps AI CRM deployed and operational in a client's production workflow |
-| **Sub-5ms p99 at 100 RPS** | Benchmarked distributed backend performance with a 99.98% cache hit rate |
-| **297+ LeetCode Submissions** | Sustained algorithmic problem-solving practice |
-| **CGPA 8.10 / 10** | B.Tech, Artificial Intelligence & Machine Learning |
-
-</div>
-
----
-
-## Certifications
-
-> **TODO — replace with your actual credentials, or delete any provider block you don't hold. Do not ship this section with placeholder certifications.**
-
-<div align="center">
-
-**Amazon Web Services**
-
-<img src="https://img.shields.io/badge/AWS-CERT_NAME_HERE-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-CERT_NAME_HERE-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-COURSE_NAME_HERE-5B21B6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-CERT_NAME_HERE-4C1D95?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/vamshi_krishna_24">
-  <img src="https://img.shields.io/badge/LeetCode-vamshi__krishna__24-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_HANDLE">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-YOUR__HANDLE-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.hackerrank.com/profile/YOUR_HR_HANDLE">
-  <img src="https://img.shields.io/badge/HackerRank-YOUR__HANDLE-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.codechef.com/users/YOUR_CC_HANDLE">
-  <img src="https://img.shields.io/badge/CodeChef-YOUR__HANDLE-4C1D95?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" />
-</a>
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -352,26 +286,7 @@ reach_me: marthavamshikrishna1024@gmail.com
 
 ---
 
-## Connect
 
-<div align="center">
-
-<a href="mailto:marthavamshikrishna1024@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-marthavamshikrishna1024%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://linkedin.com/in/krishna-mv-38380a2b3">
-  <img src="https://img.shields.io/badge/LinkedIn-Martha%20Vamshi%20Krishna-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://github.com/mvkrishna24">
-  <img src="https://img.shields.io/badge/GitHub-mvkrishna24-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://mvkrishna.me">
-  <img src="https://img.shields.io/badge/Portfolio-mvkrishna.me-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
