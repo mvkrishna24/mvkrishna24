@@ -253,38 +253,7 @@ Building distributed backend systems to production standards — benchmarked, co
 
 ---
 
-## Current Focus
 
-```yaml
-engineer: Martha Vamshi Krishna
-role: Backend Engineer · AI Systems
-location: Hyderabad, India
-
-learning:
-  - Distributed messaging: Kafka, event streaming, exactly-once semantics
-  - Real-time delivery: WebSockets, Server-Sent Events, backpressure
-  - Systems performance: JVM tuning, cache topology, tail-latency budgets
-
-building:
-  - Notification Service — Java 17 · Spring Boot 3 · Kafka · Redis · WebSockets
-  - Door Ducks — production facility management SaaS, security spine hardening
-  - mvkrishna.me — Cinematic Systems Telemetry portfolio
-
-exploring:
-  - Quantitative engineering and AI applied to markets
-  - Agentic developer tooling and multi-agent orchestration
-  - Product engineering: revenue, retention, and what actually breaks
-
-open_to:
-  - Backend Engineering Internships (Java · Spring Boot · Distributed Systems)
-  - AI / ML & Automation Engineering
-  - Full Stack Product Engineering
-  - High-signal freelance and contract work
-
-reach_me: marthavamshikrishna1024@gmail.com
-```
-
----
 
 
 
